@@ -1,17 +1,16 @@
 # ndrean7
 
-Airdrop hunter and AI agent builder from Indonesia.
+AI agent builder from Indonesia.
 
 ## What I do
 
-- Farming testnets and airdrops — Asentum, GenLayer, Amadeus, and more
 - Building AI agents for [make.fun](https://make.fun) bounties
 - Entries: Token Launch Radar, Emberkeep, Emberline, Git Forge, Koi Leap, Tiny Chess
 
 ## Currently
 
 - Building and improving my make.fun bounty entries
-- Learning in public, one testnet at a time
+- Learning in public
 
 ## Connect
 
