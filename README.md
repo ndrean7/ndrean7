@@ -2,19 +2,17 @@
 
 AI agent builder from Indonesia.
 
-## What I do
+## Make.fun entries
 
-- Building AI agents for [make.fun](https://make.fun) bounties
-- Entries: Token Launch Radar, Emberkeep, Emberline, Git Forge, Koi Leap, Tiny Chess
-
-## Currently
-
-- Building and improving my make.fun bounty entries
-- Learning in public
+- [Token Launch Radar](https://github.com/ndrean7/token-radar-01)
+- [Emberkeep](https://github.com/ndrean7/best-game-01)
+- [Emberline](https://github.com/ndrean7/threejs-fps-02)
+- [Git Forge](https://github.com/ndrean7/github-core-clone-01)
+- [Koi Leap](https://github.com/ndrean7/ai-excited-01)
+- [Tiny Chess](https://github.com/ndrean7/tiny-chess-01)
 
 ## Connect
 
 - X: [@0xndrean7](https://x.com/0xndrean7)
 
 ![ndrean7's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndrean7&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndrean7&layout=compact&theme=dark)
