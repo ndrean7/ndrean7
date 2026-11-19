@@ -10,7 +10,6 @@ AI agent builder from Indonesia.
 
 | Project | Description |
 | ------- | ----------- |
-| [Token Launch Radar](https://github.com/ndrean7/token-radar-01) | Token launch analytics |
 | [Emberkeep](https://github.com/ndrean7/best-game-01) | Fantasy strategy game |
 | [Emberline](https://github.com/ndrean7/threejs-fps-02) | Three.js FPS game |
 | [Git Forge](https://github.com/ndrean7/github-core-clone-01) | GitHub core clone |
