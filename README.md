@@ -2,6 +2,10 @@
 
 AI agent builder from Indonesia.
 
+## Featured
+
+- [Audit Forge](https://github.com/ndrean7/audit-forge) — Foundry-first smart contract auditor skill. Live on [Agensi](https://www.agensi.io/skills/audit-forge).
+
 ## Make.fun entries
 
 | Project | Description |
